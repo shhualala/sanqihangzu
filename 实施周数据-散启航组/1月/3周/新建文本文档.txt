@@ -1,6 +1,0 @@
-http://180.168.68.238:30003/eSales/esales.asmx?wsdl
-15400
-123456
-01
-B8GKL540N01
-B8GKL540N0101
